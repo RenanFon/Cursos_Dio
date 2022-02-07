@@ -85,7 +85,8 @@ header nav a:hover{
     color: black;
 }
 .icon{
-    max-width: 11px;
+    max-width: 21px;
+    margin-left: 20px;
 }
 .container{
     margin-left: 30px;
